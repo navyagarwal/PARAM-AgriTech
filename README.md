@@ -2,7 +2,7 @@
 
 ## Helping farmers increase crop yield at affordable prices
 
-~Currently working on "Reconstruction of RGB images to HSI" to take this project forward.~
+*Currently working on "Reconstruction of RGB images to HSI" to take this project forward.*
 
 ### Problem Statement
 
