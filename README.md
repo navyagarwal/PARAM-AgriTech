@@ -2,6 +2,8 @@
 
 ## Helping farmers increase crop yield at affordable prices
 
+~Currently working on "Reconstruction of RGB images to HSI" to take this project forward.~
+
 ### Problem Statement
 
 It is estimated that India loses almost 15-25% of total crop yield due to weeds, pest and crop disease. Another factor for low yield is non-affordability or non-accessibility of sufficient input irrigation and fertilisers for which the loss is especially higher amongst small and marginal farmers.
